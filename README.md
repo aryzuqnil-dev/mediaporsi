@@ -1,0 +1,2 @@
+# mediaporsi
+Media berbasis AI
